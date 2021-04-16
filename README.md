@@ -1,4 +1,4 @@
-# project-2
+# project-1 cse 
 #include<stdio.h>
 int isperfect(int n)
 {
